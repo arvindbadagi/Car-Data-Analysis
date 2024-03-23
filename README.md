@@ -67,7 +67,7 @@ The project aims to analyze a dataset containing information about car sales. Th
 
 ![image](https://github.com/arvindbadagi/Car-Data-Analysis/assets/160807783/ee941872-3bb3-4c54-b29e-76b38564c766)
 
-### 6. CLIENT ASKED CAR DEALER AGENT HOW MANY DIESEL CARS WILL BE THERE IN 2024 
+### 6. CLIENT ASKED CAR DEALER AGENT HOW MANY DIESEL CARS WILL BE THERE IN 2014 
 
      SELECT COUNT(*) AS TOTAL_CARS 
      FROM CAR_DATA 
